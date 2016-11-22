@@ -1,4 +1,4 @@
-/** @file hw6.cpp
+/** @file main.cpp
  @brief Creates output files of partition, stirling1, and stirling2 functions using user input 
  @author Connor Hennen
  @date Nov 2, 2016
